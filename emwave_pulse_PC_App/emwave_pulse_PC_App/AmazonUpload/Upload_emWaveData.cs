@@ -157,7 +157,7 @@ namespace emwave_pulse_PC_App.AmazonUpload
 
         private void uploadData(String filePath)
         {
-            String bucketName = "hrv-usr-data";
+            String bucketName = "CHANGE ME";
             String accessKey = "CHANGE ME";
             String secretKey = "CHANGE ME";
 
